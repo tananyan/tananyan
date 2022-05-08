@@ -1,5 +1,4 @@
-### Hi there👋 https://tananyan.github.io/
-https://t.me/tbakardi
+### Hi there👋 https://tananyan.github.io/ Telegram: https://t.me/tbakardi
 [![codewars](https://www.codewars.com/users/tananyan/badges/large)](https://www.codewars.com/users/tananyan)  
 
 <!--
